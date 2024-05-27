@@ -1,0 +1,76 @@
+Initial State at Level: 1
+Player HP: 100
+Monster HP: 80
+
+Level: 1
+Player HP at start: 100
+Player Bonus HP: 210
+Player HP at end: 230
+Monster HP at start: 80
+Monster HP at end: 0
+Damage dealt to monster: 80
+
+Level: 2
+Player HP at start: 230
+Player Bonus HP: 229
+Player HP at end: 334
+Monster HP at start: 125
+Monster HP at end: 0
+Damage dealt to monster: 125
+
+Level: 3
+Player HP at start: 334
+Player Bonus HP: 286
+Player HP at end: 450
+Monster HP at start: 170
+Monster HP at end: 0
+Damage dealt to monster: 170
+
+Level: 4
+Player HP at start: 450
+Player Bonus HP: 250
+Player HP at end: 485
+Monster HP at start: 215
+Monster HP at end: 0
+Damage dealt to monster: 215
+
+Level: 5
+Player HP at start: 485
+Player Bonus HP: 270
+Player HP at end: 495
+Monster HP at start: 260
+Monster HP at end: 0
+Damage dealt to monster: 260
+
+Level: 6
+Player HP at start: 495
+Player Bonus HP: 222
+Player HP at end: 412
+Monster HP at start: 305
+Monster HP at end: 0
+Damage dealt to monster: 305
+
+Level: 7
+Player HP at start: 412
+Player Bonus HP: 288
+Player HP at end: 350
+Monster HP at start: 350
+Monster HP at end: 0
+Damage dealt to monster: 350
+
+Level: 8
+Player HP at start: 350
+Player Bonus HP: 205
+Player HP at end: 160
+Monster HP at start: 395
+Monster HP at end: 0
+Damage dealt to monster: 395
+
+Level: 9
+Player HP at start: 160
+Player Bonus HP: 0
+Player HP at end: 0
+Monster HP at start: 440
+Monster HP at end: 4
+Damage dealt to monster: 0
+
